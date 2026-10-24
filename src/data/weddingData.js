@@ -97,15 +97,15 @@ export const rsvpDeadline = (() => { const p = parts(RSVP_BY_DATE); return `${or
 export const contact = {
   hostedBy: "Hosted with love by the family of Smt. S. Lakshmi & Sri S. Venkatamuni",
   address: "1-66, Avilala, Tirupati Rural, Tirupati District",
-  phones: ["+91 81064 43436", "+91 91772 19970", "+91 95020 26482"],
+  phones: ["+91 81064 43437", "+91 91772 19978", "+91 95020 26486"],
 };
 
 export const planner = {
   name: "Sree Lakshmi Events & Wedding Planner",
   blurb:
     "From decor to logistics, Sree Lakshmi Events & Wedding Planner curated every detail of this celebration — reach out to them for anything on the day.",
-  phone: "+91 9502026482",
-  altPhone: "+91 9177219970",
+  phone: "+91 9502026483",
+  altPhone: "+91 9177219974",
   address: "1-66, Avilala, Tirupati Rural, Tirupati District, Andhra Pradesh",
   mapsQuery: "Sree+Lakshmi+Events+and+Wedding+Planner+Avilala+Tirupati",
 };
